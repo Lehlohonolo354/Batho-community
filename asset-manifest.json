@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/batho-community-library/static/css/main.f855e6bc.css",
+    "main.js": "/batho-community-library/static/js/main.a0fc0693.js",
+    "static/js/453.4ee0808b.chunk.js": "/batho-community-library/static/js/453.4ee0808b.chunk.js",
+    "index.html": "/batho-community-library/index.html",
+    "main.f855e6bc.css.map": "/batho-community-library/static/css/main.f855e6bc.css.map",
+    "main.a0fc0693.js.map": "/batho-community-library/static/js/main.a0fc0693.js.map",
+    "453.4ee0808b.chunk.js.map": "/batho-community-library/static/js/453.4ee0808b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a0fc0693.js"
+  ]
+}
