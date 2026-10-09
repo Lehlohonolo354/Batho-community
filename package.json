@@ -2,7 +2,7 @@
   "name": "batho-community-library",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lehlohonolo354.github.io/batho-community-library",
+  "homepage": "https://lehlohonolo354.github.io/Batho-community",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
@@ -15,12 +15,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
